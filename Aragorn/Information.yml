@@ -1,7 +1,8 @@
 name:
   - Aragorn II, son of Arathorn II
 affil:
-  - [Kingdom of Arnor](https://lotr.fandom.com/wiki/Arnor)
+  name: Kingdom of Arnor
+  link: https://lotr.fandom.com/wiki/Arnor
 external:
   - https://lotr.fandom.com/wiki/Aragorn_II
 orcid:
