@@ -1,7 +1,8 @@
 name:
   - Gandalf the Grey
 affil:
-  - [Maiar](https://lotr.fandom.com/wiki/Maiar)
+  name: Maiar
+  link: https://lotr.fandom.com/wiki/Maiar
 external:
   - https://lotr.fandom.com/wiki/Gandalf
 orcid:
