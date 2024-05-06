@@ -1,7 +1,8 @@
 name:
   - Boromir, Son of Denethor II
 affil:
-  - [Kingdom of Gondor](https://lotr.fandom.com/wiki/Gondor)
+  name: Kingdom of Gondor
+  link: https://lotr.fandom.com/wiki/Gondor
 external:
   - https://lotr.fandom.com/wiki/Boromir
 orcid:
