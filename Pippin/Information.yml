@@ -1,7 +1,8 @@
 name:
   - Peregrin Took
 affil:
-  - [The Shire](https://lotr.fandom.com/wiki/The_Shire)
+  name: The Shire
+  link: https://lotr.fandom.com/wiki/The_Shire
 external:
   - https://lotr.fandom.com/wiki/Peregrin_Took
 orcid:
