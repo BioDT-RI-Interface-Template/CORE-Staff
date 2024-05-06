@@ -1,7 +1,8 @@
 name:
   - Gimli, Son of Glóin
 affil:
-  - [House of Durin](https://lotr.fandom.com/wiki/House_of_Durin)
+  name: House of Durin
+  link: https://lotr.fandom.com/wiki/House_of_Durin
 external:
   - https://lotr.fandom.com/wiki/Gimli
 orcid:
