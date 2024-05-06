@@ -1,7 +1,8 @@
 name:
   - Legolas
 affil:
-  - [Woodland Realm](https://lotr.fandom.com/wiki/Woodland_Realm)
+  name: Woodland Realm
+  link: https://lotr.fandom.com/wiki/Woodland_Realm
 external:
   - https://lotr.fandom.com/wiki/Legolas
 orcid:
