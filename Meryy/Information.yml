@@ -1,7 +1,8 @@
 name:
   - Meriadoc Brandybuck
 affil:
-  - [Buckland](https://lotr.fandom.com/wiki/Buckland)
+  name: Buckland
+  link: https://lotr.fandom.com/wiki/Buckland
 external:
   - https://lotr.fandom.com/wiki/Meriadoc_Brandybuck
 orcid:
