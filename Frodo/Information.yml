@@ -1,7 +1,8 @@
 name:
   - Frodo Baggins
 affil:
-  - [Brandy Hall](https://lotr.fandom.com/wiki/Brandy_Hall)
+  name: Brandy Hall
+  link: https://lotr.fandom.com/wiki/Brandy_Hall
 external:
   - https://lotr.fandom.com/wiki/Frodo_Baggins
 orcid:
